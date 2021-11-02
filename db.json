@@ -5,7 +5,7 @@
 
 
 
-{
+
     "data": {
         "message": "Request successful",
         "course": {
@@ -170,4 +170,4 @@
     },
     "code": 1,
     "status": 200
-}
+
