@@ -1,6 +1,4 @@
 {
-    "data": {
-        "message": "Request successful",
         "course": {
             "id": "1387",
             "learners": [
@@ -160,7 +158,4 @@
             ],
             "name": "Instructional Interactions (BTS-P)new)"
         }
-    },
-    "code": 1,
-    "status": 200
-}
+
