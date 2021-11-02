@@ -1,4 +1,4 @@
-{
+
         "course": {
             "id": "1387",
             "learners": [
@@ -155,7 +155,8 @@
                     ],
                     "survey": []
                 }
-            ],
-            "name": "Instructional Interactions (BTS-P)new)"
+            ]
+        
         }
+        
 
