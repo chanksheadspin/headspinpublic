@@ -24,8 +24,8 @@ endpoints:
       - statusCode: 200
         condition: # trigger if authorization header equals 'valid'
           operator: eq
-          comparand: headers.authorization # for query parameters: query.prop, for path parameters: params.prop
-          value: valid
+          comparand: query.course
+          value: 1387
         body:
           message: valid header
         headers:
