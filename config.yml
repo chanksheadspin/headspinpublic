@@ -81,7 +81,7 @@ endpoints:
         headers:
           - name: content-type
             value: application/json
-  - path: /course/
+  - path: /course
     method: get
     responses:
       - statusCode: 200
